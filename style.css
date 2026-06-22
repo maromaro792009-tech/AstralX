@@ -339,5 +339,18 @@ body {
         font-size: 1.4em;
     } .hp-bar, .bar {
         transform: scale(0.9);
+    } .orientation {
+        gap: 5vh;
+    } .logo {
+        gap: 0;
+    } .creator {
+        font-size: 1em;
+    } .player-input {
+        width: 10em;
+    } .name-input {
+       font-size: 0.9em;
+       top: 60%;
+       left: 55%;
+       transform: translate(-55%, -60%);
     }
 }
